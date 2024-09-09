@@ -1,4 +1,4 @@
-
+![banner-1557881_1280](https://github.com/user-attachments/assets/4ec01290-951a-452f-96b5-4763b413be61)
 <h1 align="center">Hi 👋, I'm Dilara</h1>
 <h3 align="center">An enthusiastic full stack developer from Turkey</h3>
 
