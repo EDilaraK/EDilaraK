@@ -15,3 +15,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edilarak&" alt="edilarak" /></p>
 
+
+![snake gif](https://github.com/EDilaraK/EDilaraK/blob/output/github-contribution-grid-snake.gif)
